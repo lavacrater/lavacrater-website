@@ -1,21 +1,26 @@
 /*
-#173e43 Blue
-#3fb0ac Light Blue
-#fae596 Beige
-#dddf24 Gri
+#173E43 Blue
+#3FB0AC Light Blue
+#FAE596 Beige
+#DDDF24 Gri
 */
+body {
+	margin:0px;
+	padding:0px;
+}
 
 #header {
-	background: #B82601;
-
+	background: #173E43;
+    width: 500px; 
 }   
 
 #content {
-	background: #737373;
+	background: #FAE596;
+	min-height: 12px;
 }
 
 #footer {
-	background: #332221;
+	background: #3FB0AC;
     padding: 32px;
     margin: 150px;
     text-align: center;
