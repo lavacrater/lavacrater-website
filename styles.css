@@ -24,10 +24,10 @@ body {
 }
 
 #footer {
-	background: #3FB0AC;
+	background: #1FB0AC;
 	width: 500px;
     margin: 0px auto;
     text-align: center;
     height: 10%;
-    border: black 13px solid;
+    border: black 3px solid;
 }
