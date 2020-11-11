@@ -10,24 +10,28 @@ body {
 }
 
 #header {
-	background: #173E43;
-    width: 500px;
-    margin: -20px auto 20px auto;
+background: #13D7F0;
+margin: -20px auto 20px auto;
 }   
 
 #content {
 	background: #FAE596;
 	min-height: 400px;
 	margin: 0px auto 0px auto;
-	width: 500px;
-	padding: 30px 20px 30px 20px;
+	width: 1500px;
+	padding: 30px 20px 30px 20px; 
+	font-family:Arial;
+	font-size: 30pt;
+
 }
 
 #footer {
-	background: #1FB0AC;
-	width: 500px;
-    margin: 0px auto;
+    background: #1FB0AC;
     text-align: center;
-    height: 10%;
-    border: black 3px solid;
+    height: 100%;
+    border: black 3px dotted;
+    font-size: 20pt;
+    margin: 120px auto 20px auto;
+
+
 }
